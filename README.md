@@ -9,7 +9,7 @@
 
 `size_data`: https://www2.isye.gatech.edu/~sahmed/siplib/sizes/sizes.html
 
-#### 2. Use `rSIZE` `rSSLP` `rSSTP` read data in `sslp_data`,`sstp_data`,`size_data` into dictionary and save in `bench2SP_data`.
+#### 2. Use `bench2data` read data in `sslp_data`,`sstp_data`,`size_data` into dictionary and save in `bench2SP_data`.
 
 extra : Read raw data and convert it to standard `mps` `lp` format with gurobi[<sup>1</sup>](#refer-anchor-1) and save it in `bench2SP_mps - 副本`.
 
