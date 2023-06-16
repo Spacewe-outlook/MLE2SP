@@ -24,3 +24,4 @@ extra : Read raw data and convert it to standard `mps` `lp` format with gurobi[<
 Evaluation functions include sslp, sstp, size, drlp.
 
 > The decompression password of the MLDES,GA,MI-EDDE,DRLP CODE.zip file is the paper ID "TETCI-****".
+> After the paper is published, it is completely open source, and the decompression password is released.
